@@ -3,4 +3,4 @@
 
 - 🔭 I’m currently studying at HeBei University.
 - 🌱 I’m currently learning C++ and Jetpack Compose.
-- 🧑‍🎓I am a student of pharmaceutical preparation.
+- 🧑‍🎓 My undergraduate major is pharmaceutical preparations.
