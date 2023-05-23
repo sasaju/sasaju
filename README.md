@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![sasaju's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasaju)](https://github.com/anuraghazra/github-readme-stats)
+[![sasaju's GitHub stats](https://readmestats.999857.xyz/api?username=sasaju)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasaju&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently studying at HeBei University.
