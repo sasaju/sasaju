@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying at Jilin University.
 - 🌱 I’m currently learning C++, R, Quantum Chemistry and Bioinformatics.
-- 🧑‍🎓 My undergraduate major is pharmaceutical preparations.
+- 🧑‍🎓 My graduate major is medicinal chemistry.
 
 
 > The only way to do great work is to love what you do. 
