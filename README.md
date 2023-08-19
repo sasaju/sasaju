@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning C++, R, Quantum Chemistry and Bioinformatics.
 - 🧑‍🎓 My undergraduate major is pharmaceutical preparations.
 
-\
-**书山有路勤为径，学海无涯苦作舟**
+
+> The only way to do great work is to love what you do. 
