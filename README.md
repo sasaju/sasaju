@@ -5,5 +5,8 @@
 - 🌱 I’m currently learning C++, R, Quantum Chemistry and Bioinformatics.
 - 🧑‍🎓 My graduate major is medicinal chemistry.
 
-
+<!---
 > The only way to do great work is to love what you do. 
+-->
+
+> 知其不可奈何而安之若命
